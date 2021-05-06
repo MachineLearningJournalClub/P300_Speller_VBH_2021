@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021">
+  <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">
     <img src="images/logo_mljc.png" alt="Logo" width="120" height="120">
     <img src="images/logo_brain_io.png" alt="Logo" width="120" height="60">
   </a>
@@ -28,14 +28,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021">View Demo</a>
+    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">View Demo</a>
     ·
-    <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021">Report Bug</a>
+    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">Report Bug</a>
     ·
-    <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021">Request Feature</a>
+    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">Request Feature</a>
   </p>
 </p>
 
@@ -89,13 +89,8 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   !git clone https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -154,7 +149,7 @@ Project Link: [https://github.com/MachineLearningJournalClub/P300_Speller_VBH_20
 ## Acknowledgements
 
 <p align="center">
-  <a href="https://github.com/MachineLearningJournalClub/ECoG_VBH_2021">
+  <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">
     <img src="images/logo_gtec.png" alt="Logo" width="180" height="120">
     <img src="images/logo_hpc4ai.png" alt="Logo" width="420" height="120">
     <img src="images/logo_pompei.png" alt="Logo" width="120" height="120">
@@ -170,15 +165,15 @@ Project Link: [https://github.com/MachineLearningJournalClub/P300_Speller_VBH_20
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MachineLearningJournalClub/ECoG_VBH_2021.svg?style=for-the-badge
-[contributors-url]: https://github.com/MachineLearningJournalClub/ECoG_VBH_2021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MachineLearningJournalClub/ECoG_VBH_2021.svg?style=for-the-badge
-[forks-url]: https://github.com/MachineLearningJournalClub/ECoG_VBH_2021/network/members
-[stars-shield]: https://img.shields.io/github/stars/MachineLearningJournalClub/ECoG_VBH_2021.svg?style=for-the-badge
-[stars-url]: https://github.com/MachineLearningJournalClub/ECoG_VBH_2021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MachineLearningJournalClub/ECoG_VBH_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/MachineLearningJournalClub/ECoG_VBH_2021/issues
-[license-shield]: https://img.shields.io/github/license/MachineLearningJournalClub/ECoG_VBH_2021.svg?style=for-the-badge
-[license-url]: https://github.com/MachineLearningJournalClub/ECoG_VBH_2021/blob/main/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/MachineLearningJournalClub/P300_Speller_VBH_2021.svg?style=for-the-badge
+[contributors-url]: https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MachineLearningJournalClub/P300_Speller_VBH_2021.svg?style=for-the-badge
+[forks-url]: https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021/network/members
+[stars-shield]: https://img.shields.io/github/stars/MachineLearningJournalClub/P300_Speller_VBH_2021.svg?style=for-the-badge
+[stars-url]: https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MachineLearningJournalClub/P300_Speller_VBH_2021.svg?style=for-the-badge
+[issues-url]: https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021/issues
+[license-shield]: https://img.shields.io/github/license/MachineLearningJournalClub/P300_Speller_VBH_2021.svg?style=for-the-badge
+[license-url]: https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/machine-learning-journal-club
