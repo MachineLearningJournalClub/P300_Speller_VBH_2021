@@ -79,26 +79,11 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -148,21 +133,20 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
+Luca Bottero - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin]()
 
-Simone Poetto - [simone.poetto@edu.unito.it](simone.poetto@edu.unito.it) :  - [linkedin]()
+Ilaria Gesmundo - [ila.gesmundo@gmail.com](ila.gesmundo@gmail.com) :  - [linkedin]()
 
-Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
+Letizia Pizzini  - email : [letizia.pizzini@edu.unito.it](letizia.pizzini@edu.unito.it) - [linkedin]()
 
-Fabrizio Pittatore - email :  - [linkedin]()
+Aurora Micheli - email : [aurora.micheli@edu.unito.it](aurora.micheli@edu.unito.it) - [linkedin]()
 
-Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
+Flavio Sartori - email : [flavio.sartori@edu.unito.it](flavio.sartori@edu.unito.it) - [linkedin]()
 
-Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)
+Project Link: [https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021](https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021)
 
 
 
