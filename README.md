@@ -47,19 +47,13 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -71,12 +65,25 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+The P300 speller BCI system consisted of electroencephalography acquisition connected to real-time processing software and separate keyboard-display control software. It was first described by Sutton et al.( 1965 ) and has been widely studied since then to explore higher cortical functions in humans (for review see Bashore & Van der Molen, 1991; Donchin, 1981; Duncan et al., 2009; Fabiani et al., 1987; Polich, 2007; Pritchard, 1981 ). Although it often occurs at a latency of about 300 ms relative to the eliciting stimulus (hence the designation of P300), its latency may vary from 250 to 750 ms (Comerchero & Polich, 1999 ; Maglieroet al., 1984; McCarthy & Donchin, 1981; Polich, 2007 ). This variability in latency reflects the fact that the P300 is elicited by the decision, not necessarily conscious, that a rare event has occurred, and the decision latency can and does, vary with the nature (e.g., the difficulty) of the decision (Kutas et al., 1977 ).
+The P300 is usually largest over the central parietal scalp and attenuates gradually as the distance from this area increases.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <cite>
+    @credit: Xiaogang Chen et al./PNAS
+  </cite>
+  <img width="700" height="350" src="https://www.kurzweilai.net/images/SSVEP-based-BCI-speller.jpg">
+</p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+A visual paradigm based P300 speller system consists of several stages:
+
+- Stimulating a subject by presenting a P300 processing;
+- Feature extraction; 
+- Classification.
+
+During the Hackathon we faced a problem with two different paradigms used to implement the P300 speller: (i) the row/column (RC) speller highlights multiple characters at once and (ii) the single character (SC) speller flashes each character individually (see "How many people are able to control a P300-based brain-computer interface (BCI)?" by Christoph Guger et al. for more details).
+
+We started with 5 matrix of raw data from 5 different patients. Each matrix had a dimension of: 60000 rows and 8 columns (one column for each channel). 
 
 
 <!-- GETTING STARTED -->
@@ -89,23 +96,8 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   !git clone https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021
+   git clone https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021
    ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
 
 
@@ -139,7 +131,7 @@ Letizia Pizzini  - email : [letizia.pizzini@edu.unito.it](letizia.pizzini@edu.un
 
 Aurora Micheli - email : [aurora.micheli@edu.unito.it](aurora.micheli@edu.unito.it) - [linkedin]()
 
-Flavio Sartori - email : [flavio.sartori@edu.unito.it](flavio.sartori@edu.unito.it) - [linkedin]()
+Flavio Sartori - email : [flavio.sartori@edu.unito.it](flavio.sartori@edu.unito.it) - [linkedin](https://www.linkedin.com/in/flavio-sartori-474a871b2)
 
 Project Link: [https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021](https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021)
 
