@@ -38,7 +38,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -73,7 +72,7 @@ We started with 5 matrix of raw data from 5 different patients. Each matrix had 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow this simple step.
 
 
 ### Installation
@@ -83,19 +82,7 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021
    ```
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+And you will have the notebooks and the results on your PC. Due to some privacy policy, we can't share the dataset.
 
 
 <!-- LICENSE -->
