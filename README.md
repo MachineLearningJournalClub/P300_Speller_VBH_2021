@@ -38,6 +38,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#note-about-the-notebooks">Note About The Notebooks</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -84,6 +85,10 @@ To get a local copy up and running follow this simple step.
 
 And you will have the notebooks and the results on your PC. Due to some privacy policy, we can't share the dataset.
 
+<!-- NOTE ABOUT THE NOTEBOOKS -->
+## Note About the Notebooks
+
+In this repository there are all the notebooks we made during the Hackathon. All of us worked on different part of the task and finally, we put all togheter in the "Hackathon_P300_Speller_Final.ipynb" file. To see the final result so, look at this file. If you like to see which were our ideas and what we did individually look at each file separated.
 
 <!-- LICENSE -->
 ## License
