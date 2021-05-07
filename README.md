@@ -25,22 +25,6 @@
 
   <h3 align="center">ECoG Hand Pose Data Analysis - Virtual Brain Hackathon 2021</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">View Demo</a>
-    ·
-    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">Report Bug</a>
-    ·
-    <a href="https://github.com/MachineLearningJournalClub/P300_Speller_VBH_2021">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
